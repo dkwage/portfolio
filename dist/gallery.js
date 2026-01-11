@@ -39,6 +39,21 @@ const images = [
   {
     href: './dist/assets/photo/13.webp',
   },
+  {
+    href: './dist/assets/photo/14.webp',
+  },
+  {
+    href: './dist/assets/photo/15.webp',
+  },
+  {
+    href: './dist/assets/photo/16.webp',
+  },
+  {
+    href: './dist/assets/photo/17.webp',
+  },
+  {
+    href: './dist/assets/photo/18.webp',
+  },
 ];
 
 // 갤러리 컨테이너 가져오기
